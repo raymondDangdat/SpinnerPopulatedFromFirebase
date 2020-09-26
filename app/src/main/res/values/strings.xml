@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spinner  Populated From Firebase</string>
+    <string name="school_name">School Name</string>
+    <string name="add">Add</string>
+</resources>
